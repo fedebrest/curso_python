@@ -1,0 +1,5 @@
+nombre=input("ingrese su nombre: ")
+apellido=input("ingrese su apellido: ")
+tupla=tuple()
+tupla=(nombre,apellido)
+print(tupla)
